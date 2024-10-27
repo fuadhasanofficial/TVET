@@ -3,8 +3,9 @@ import React, { useEffect, useState } from "react";
 const Slider = () => {
   const images = [
     {
-      url: "https://i.ibb.co/j3qhyvy/IMG-20241020-WA0006.jpg",
-      title: "উত্তরবঙ্গে বন্যার্তদের পাশে আমরাই বাংলাদেশ এর সদস্যবৃন্দ ",
+      url: "https://i.ibb.co.com/Ytpwsk3/IMG-20240925-WA0009.jpg",
+      title:
+        "মানিকগঞ্জ টেকনিক্যাল স্কুল ও কলেজের শিক্ষার্থীদের সাথে মতবিনিময় সভায় কেন্দ্রীয় কমিটির প্রতিনিধিদের ফুল দিয়ে স্বাগতম জানায় সাধারণ শিক্ষার্থিরা  ",
     },
     {
       url: "https://i.ibb.co/xCJCf2H/IMG-20241021-WA0017.jpg",

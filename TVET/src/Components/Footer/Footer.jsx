@@ -7,9 +7,9 @@ const Footer = () => {
       <aside>
         <img className="w-24 rounded-full" src={Logo} alt="" />
         <p>
-          আমরাই বাংলাদেশ
+          BTWA
           <br />
-          একটি সামাজিক সেচ্ছাসেবী সংগঠন
+          Bangladesh TVET Welfare Association
         </p>
       </aside>
       <nav>

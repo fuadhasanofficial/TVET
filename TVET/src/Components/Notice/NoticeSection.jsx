@@ -3,8 +3,7 @@ import { Icon } from "@iconify/react";
 const notices = [
   {
     id: 1,
-    title:
-      "আগামী রবিবার, ২৭ তারিখ, পথ শিশু দের পূর্ণবাসন করা প্রসঙ্গে জেলা প্রশাসক মানিকগঞ্জ বরাবর স্বারকলিপি প্রদান প্রসঙ্গে",
+    title: "বাংলাদেশ টিভিইটি ওয়েলফেয়ার এসেসিয়েসন ",
     link: "https://drive.google.com/file/d/1miOSJvp4Vugf3JLnKJamfptocC05AfTC/view?usp=sharing",
   },
   // You can add more notices here

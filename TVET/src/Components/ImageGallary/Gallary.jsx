@@ -3,30 +3,29 @@ import { useState } from "react";
 const Gallery = () => {
   const images = [
     {
-      src: "https://i.ibb.co.com/j3qhyvy/IMG-20241020-WA0006.jpg",
-      description: "উত্তরবঙ্গে বন্যার্তদের পাশে আমরাই বাংলাদেশ এর সদস্যবৃন্দ",
+      src: "https://i.ibb.co.com/59Mg7kk/IMG-20240925-WA0005.jpg",
+      description: "এখানে ছবির বিস্তারিত থাকবে",
     },
     {
-      src: "https://i.ibb.co.com/xCJCf2H/IMG-20241021-WA0017.jpg",
+      src: "https://i.ibb.co.com/R7HB01t/IMG-20240923-WA0005.jpg",
       description: `
-মানিকগঞ্জে নবাগত জেলা-প্রশাসক মহোদয় কে আমরাই বাংলাদেশ এর পক্ষ হতে কার্যক্রমের অনুলিপি প্রদান`,
+এখানে ছবির বিস্তারিত থাকবে`,
     },
     {
       src: "https://i.ibb.co.com/0nGHPZb/IMG-20241021-WA0019.jpg",
-      description:
-        "বৈষম্য বিরোধী ছাত্র-আন্দোলনের পরে  পুলিশ কাজে ফেরায় তাদের ফুল দিয়ে স্বাগতম জানায় মানিকগঞ্জের সাধারণ শিক্ষার্থীরা ও আমরাই বাংলাদেশ এর সদস্যবৃন্দ",
+      description: "এখানে ছবির বিস্তারিত থাকবে",
     },
     {
       src: "https://i.ibb.co.com/8PCb1ym/IMG-20241021-WA0025.jpg",
-      description: "",
+      description: "এখানে ছবির বিস্তারিত থাকবে",
     },
     {
       src: "https://i.ibb.co.com/bKm8t7b/IMG-20241021-WA0027.jpg",
-      description: "",
+      description: "এখানে ছবির বিস্তারিত থাকবে",
     },
     {
       src: "https://i.ibb.co.com/0hpDwMh/IMG-20241021-WA0028.jpg",
-      description: "",
+      description: "এখানে ছবির বিস্তারিত থাকবে",
     },
   ];
 
